@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "M1XQAki6PlGwgYSS1AAVZmWwApUIcStheLV0pfhX18c=",
+  "Source": "ProyectoAPi",
+  "BasePath": "_content/ProyectoAPi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProyectoAPi\\wwwroot",
+      "Source": "ProyectoAPi",
+      "ContentRoot": "C:\\Users\\Diego\\source\\repos\\ProyectoAPi\\ProyectoAPi\\wwwroot\\",
+      "BasePath": "_content/ProyectoAPi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Diego\\source\\repos\\ProyectoAPi\\ProyectoAPi\\wwwroot\\actores\\91a73876-686a-4dad-9a5b-6a0908669561.png",
+      "SourceId": "ProyectoAPi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Diego\\source\\repos\\ProyectoAPi\\ProyectoAPi\\wwwroot\\",
+      "BasePath": "_content/ProyectoAPi",
+      "RelativePath": "actores/91a73876-686a-4dad-9a5b-6a0908669561.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\actores\\91a73876-686a-4dad-9a5b-6a0908669561.png"
+    },
+    {
+      "Identity": "C:\\Users\\Diego\\source\\repos\\ProyectoAPi\\ProyectoAPi\\wwwroot\\Peliculas\\453f9124-fe8c-4a43-8a98-ae54067f3508.jpg",
+      "SourceId": "ProyectoAPi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Diego\\source\\repos\\ProyectoAPi\\ProyectoAPi\\wwwroot\\",
+      "BasePath": "_content/ProyectoAPi",
+      "RelativePath": "Peliculas/453f9124-fe8c-4a43-8a98-ae54067f3508.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Peliculas\\453f9124-fe8c-4a43-8a98-ae54067f3508.jpg"
+    }
+  ]
+}
